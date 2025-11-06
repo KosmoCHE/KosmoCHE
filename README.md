@@ -1,4 +1,4 @@
-# Hi,I am Kosmo CHE
+# Hi, I am Kosmo CHE
 
 I am a first-year M.Eng CT student at **Xi'an Jiaotong University**, [Shaanxi Provincial Key Laboratory of Big Data Knowledge Engineering](https://bdkelab.xjtu.edu.cn/), advised by Prof. Jun LIU. Recently my research interests focus on LLM Reasoning in the context of Reinforcement Learning and Test Time Scaling.
 
